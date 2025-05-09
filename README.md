@@ -7,7 +7,7 @@ Within this repository, we distribute a whole-body PBPK model of risperidone and
 For further details, quantitative model evaluation and extensive documentation please refer to [[2]](https://doi.org/10.3390/pharmaceutics14081734).
 
 # Version information
-PK-Sim Version 10.
+PK-Sim Version 12.
 
 # License
 The model is distributed under the GPLv2 Lincense.
