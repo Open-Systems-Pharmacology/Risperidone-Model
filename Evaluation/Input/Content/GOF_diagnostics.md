@@ -1,0 +1,1 @@
+The goodness-of-fit diagnostics are shown separately for risperidone and 9-hydroxyrisperidone. For each analyte, the first plot compares observed and simulated concentrations. The second plot shows log residuals over time. Administration route and model-building or verification status are not used to stratify these diagnostics.
